@@ -2,11 +2,6 @@
 
 ## Description:
 
-[<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/DSX.png" height="150"/>](http://datascience.ibm.com/) 
-
-[<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/jupyter.png" height="150"/>](http://jupyter.org/) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/spark.png" height="150"/>](http://spark.apache.org/)
-
-
 Work with IBM's Watson Studio in this Proof of Technology (PoT) to build, train, and test machine learning/deep learning models. Participants will be led through the following four hands-on labs: 
 
 1. [Lab-1](Lab-1) - The first lab will use Jupyter Notebooks and the XGBoost library to apply machine learning to a classification problem in the healthcare profession. The Watson Machine Learning API will then be used to save and deploy the model. 
