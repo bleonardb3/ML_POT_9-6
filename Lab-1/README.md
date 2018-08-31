@@ -41,7 +41,7 @@ Upon completing the lab, you will know how to:
 
 ### Step 4.  Create the notebook.
 
-> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Create%20Notebook%20Lab-1.png"/>
+> <img src="https://github.com/bleonardb3/ML_POT_9-6/blob/master/Lab-1/images/Create%20Heart%20Disease%20Notebook.png"/>
 
 1. Click the `From URL` tab under `New Notebook`.
 1. Give the notebook a name in the `Name` field, for example `Heart Disease` and optionally you can give it a description.
