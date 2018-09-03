@@ -16,7 +16,6 @@ Upon completing the lab, you will know how to:
 1. Data exploration using Pixiedust
 1. Prepare data for training and evaluation.
 1. Create, train, and evaluate a XGBoost model.  
-1. Visualize a decision trees used by the model.
 1. Visualize the importance of features that were used to train the model.
 1. Use cross validation to select optimal model hyperparameters based on a parameter grid
 1. Persist best model in Watson Machine Learning repository using Python client library.
