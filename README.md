@@ -11,7 +11,7 @@ Work with IBM's Watson Studio in this Proof of Technology (PoT) to build, train,
 
 ## Instructions: Create a Watson Studio project and set up the required services. 
 
-### Step 1.  Log into your [Watson Studio](http://datascience.ibm.com/){:target="_blank"} account, then select `View All Projects`.
+### Step 1.  Log into your [Watson Studio](http://datascience.ibm.com/:target="_blank") account, then select `View All Projects`.
 
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Select%20View%20All%20Projects.png"/>
 
