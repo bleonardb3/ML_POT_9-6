@@ -10,6 +10,7 @@ Work with IBM's Watson Studio in this Proof of Technology (PoT) to build, train,
 1. [Lab-4](Lab-4) - For the 4th lab, we have 4 "sub-labs" that all operate on the same dataset and demonstrate (4a) Watson Machine Learning deployment of a Machine Learning model, and DevOps to build an application that invokes the deployed model, (4b) Visual Drag and Drop creation of a machine learning model pipeline, (4c) data profiling, visualization, and preparation using the Data Refinery, and (4d) Spark Machine Learning via a Jupyter Notebook.  
 
 ## Instructions: Create a Watson Studio project and set up the required services. 
+<a href="https://datascience.ibm.com target="_blank">Watson Studio </a> 
 
 ### Step 1.  Log into your [Watson Studio](http://datascience.ibm.com/:target="_blank") account, then select `View All Projects`.
 
